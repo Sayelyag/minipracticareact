@@ -1,0 +1,7 @@
+MINI PRACTICA REACT 
+- Necesitamos dos components en nuestro proyecto. 
+- HomeComponent.jsx y DoctoresEspecialidad.jsx 
+- Quiero mostrar navegación, un Link para Home y otro para doctores 
+- En los doctores, mostraremos un desplegable con las Especialidades. 
+- Al seleccionar una especialidad, mostramos los doctores (lista, tabla) 
+https://apidoctoresroutes2023.azurewebsites.net/index.html 

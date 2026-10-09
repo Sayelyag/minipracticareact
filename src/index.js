@@ -3,11 +3,17 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import MenuRutas from './component/MenuRutas';
+import Router from './component/Router';
+import DoctoresEspecialidad from './component/DoctoresEspecialidad';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <MenuRutas />
+    <hr/>
+    <Router />
+    <hr />
   </React.StrictMode>
 );
 
